@@ -15,6 +15,49 @@
   </a>
 </p>
 
+
+<h2>Asere...</h2>
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <!-- Imagen de perfil con icono de X -->
+  <div style="text-align: center;">
+    <a href="https://x.com/D_Rodev" target="_blank">
+      <img src="https://pbs.twimg.com/profile_images/1958220332688461825/CiiiOPKY_400x400.jpg" 
+           alt="X @D_Rodev" 
+           width="160" 
+           style="border-radius:50%; border:2px solid #00acee;">
+      <br>
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" 
+           alt="X logo" 
+           width="28">
+    </a>
+  </div>
+
+  <!-- Bio -->
+  <div style="max-width: 600px;">
+    <h3>👋 Hola, soy <span style="color:#00acee;">D_Rodev</span></h3>
+    <p>
+      Desarrollador <b>Full Stack</b> con enfoque en el <b>ecosistema MERN</b> y tecnologías modernas como 
+      <b>TypeScript, React, TailwindCSS, Node.js y Docker</b>.
+    </p>
+    <p>
+      Me apasiona la <b>programación</b>, la <b>inteligencia artificial</b> y el 
+      <b>aprendizaje autodidacta</b> 📚.
+    </p>
+    <p>
+      También exploro áreas como <i>física, matemáticas, filosofía, biología, psicología, robótica</i> y 
+      <i>finanzas</i>, conectando el conocimiento para crear proyectos innovadores 🌐.
+    </p>
+    <p>
+      ✨ Comparto mis ideas y proyectos en 
+      <a href="https://x.com/D_Rodev" target="_blank"><b>X (@D_Rodev)</b></a>, 
+      donde publico sobre <b>desarrollo</b>, <b>IA</b>, <b>investigación</b> y <b>aprendizaje continuo</b>.
+    </p>
+    <p><b>🚀 Objetivo:</b> crecer como profesional, aportar a la comunidad tech y seguir aprendiendo cada día.</p>
+  </div>
+</div>
+
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Stack de Tecnologías ⚡</h2></summary>
@@ -115,6 +158,3 @@
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" />
 </p>
-
-
-
