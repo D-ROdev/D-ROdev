@@ -29,7 +29,7 @@
 </p>
 <hr/>
 
-<h2 align="center">Áreas de Conocimiento 🌌</h2>
+<h2 align="center">Áreas de Estudio 📚🌌</h2>
 
 <table align="center">
   <tr>
@@ -39,7 +39,7 @@
       <p>Estudio de las leyes del universo y la materia.</p>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/96/philosophy.png" width="80"/><br>
+      <img src="https://img.icons8.com/fluency/96/greek-column.png" width="80"/><br>
       <b>Filosofía</b>
       <p>Reflexión crítica sobre la existencia y el pensamiento.</p>
     </td>
@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/96/dna-helix.png" width="80"/><br>
+      <img src="https://img.icons8.com/fluency/96/microscope.png" width="80"/><br>
       <b>Biología</b>
       <p>Estudio de los seres vivos y sus procesos.</p>
     </td>
@@ -81,9 +81,10 @@
       <p>Gestión del dinero, inversión y economía.</p>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/96/research.png" width="80"/><br>
+      <img src="https://img.icons8.com/fluency/96/test-tube.png" width="80"/><br>
       <b>Investigación</b>
       <p>Búsqueda de conocimiento y descubrimiento científico.</p>
     </td>
   </tr>
 </table>
+
