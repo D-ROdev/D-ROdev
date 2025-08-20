@@ -1,5 +1,8 @@
 <h1>Asere. 👋</h1>
-![./assets/fondoX.png](https://github.com/D-ROdev/D-ROdev/blob/main/assets/fondoX.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/D-ROdev/D-ROdev/main/assets/fondoX.png" alt="Mi Banner" />
+</p>
+
 <p>Un apasionado por el desarrollo y la investigación.</p>
 <hr/>
 
