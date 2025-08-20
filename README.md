@@ -1,5 +1,5 @@
 <h1>Asere. 👋</h1>
-![Mi Banner](./assets/mi_banner.png)
+![Mi Banner](./assets/fondoX.png)
 <p>Un apasionado por el desarrollo y la investigación.</p>
 <hr/>
 
