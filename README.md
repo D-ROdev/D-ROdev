@@ -22,9 +22,10 @@
 </div>
 
 <!-- tech stack icons -->
+<!-- Stack de Tecnologías -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,ts,java,cpp,linux,docker,nginx,nodejs,postgres,prisma,mysql,aws,redis,github,git,express,redux,figma,materialui,html,css,js,py,mongodb,nextjs,firebase,postman,kubernetes,discord,dynamodb,pug,vscode,md&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,react,html,tailwind,nodejs,express,pandas,mongodb,mysql,postgres,redis,chartjs,aws,bash,docker,kubernetes,firebase,electron,figma,framer,postman,nextjs,linux&perline=13" />
   </a>
 </p>
 <hr/>
