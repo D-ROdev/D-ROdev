@@ -39,7 +39,7 @@
       <p>Estudio de las leyes del universo y la materia.</p>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/96/greek-column.png" width="80"/><br>
+      <img src="https://img.icons8.com/fluency/96/open-book.png" width="80"/><br>
       <b>Filosofía</b>
       <p>Reflexión crítica sobre la existencia y el pensamiento.</p>
     </td>
