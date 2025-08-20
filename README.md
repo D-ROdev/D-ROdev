@@ -87,6 +87,7 @@
       <p>Búsqueda de conocimiento y descubrimiento científico.</p>
     </td>
   </tr>
+</table>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff" />
