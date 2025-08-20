@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/D-ROdev/D-ROdev/main/assets/fondoX.png" 
        alt="Mi Banner" 
-       style="width:100%; height:350px; object-fit:cover;" />
+       style="width:100%; height:410px; object-fit:cover;" />
 </p>
 
 
